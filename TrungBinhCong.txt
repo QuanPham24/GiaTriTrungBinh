@@ -1,0 +1,19 @@
+INPUT: Enter numb1, numb2, numb3, numb4, numb5
+	Calculate Average
+
+THUAT TOAN:
+B1: khai bao cac bien numb1, numb2, numb3, numb4, numb5, average, count
+B2: Thong bao nhap so thu nhat
+B3: lay du lieu nhap vao bien numb1
+B4: thong bao nhap so thu hai
+B5: lay du lieu nhap vao numb2
+b6: thong bao nhap so thu ba
+B7: lay du lieu nhap vao numb3
+B8: thong bao lay so thu tu
+B9: lay du lieu nhap vao numb4
+B10: thong bao lay so thu 5
+B11: lay du lieu nhap vao numb5
+B12: tinh trung binh cong
+B13: xuat ket qua
+
+OUTPUT: show result of average
